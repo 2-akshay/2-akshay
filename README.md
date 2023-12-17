@@ -1,6 +1,6 @@
-# Hello World! 👋
+# Hello World! 
 
-# 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+##𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 Hire me for remote work & internships.
 
