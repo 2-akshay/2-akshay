@@ -1,13 +1,13 @@
+# 💫 About Me:
+🎓  Hi, I am a Software developer<br>💡  I enjoy working with HTML5, CSS3, JavaScript, java,SQL,MongoDB.<br>🌱  I'm on track for learning Backend Development<br>👨‍💻  I also have knowledge of , Java and C<br>😁  Apart from this I also have interest in Playing Cricket. .<br>✉️  You can shoot me an email at akshaysangale0201@gmail.com!
+
+
 <h1 align="center">Hi 👋, I'm Akshay Sangale</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer </h3>
 
 <img align="right" alt="coder" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2-akshay&label=Profile%20views&color=0e75b6&style=flat" alt="2-akshay" /> </p>
-
-- 🌱 I’m currently learning **Java and DSA**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akshay-sangale-1203b8246/](https://www.linkedin.com/in/akshay-sangale-1203b8246/)
 
 - 📫 How to reach me **akshaysangale0201@gmail.com**
 
