@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2-akshay&label=Profile%20views&color=0e75b6&style=flat" alt="2-akshay" /> </p>
 
 # 💫 About Me:
-🎓  Hi, I am a Software developer<br>💡  I enjoy working with HTML5, CSS3, JavaScript, java,SQL,MongoDB.<br>🌱  I'm on track for learning Backend Development<br>👨‍💻  I also have knowledge of , Java and C<br>😁  Apart from this I also have interest in Playing Cricket. .<br>✉️  You can shoot me an email at akshaysangale0201@gmail.com!
+🎓  Hi, I am a Software developer<br>💡  I enjoy working with HTML5, CSS3, JavaScript, java,SQL,MongoDB.<br>🌱  I'm on track for learning Backend Development<br>👨‍💻  I also have knowledge of , Java and C<br>😁  Apart from this I also have interest in Cloud Computing. .<br>✉️  You can shoot me an email at akshaysangale0201@gmail.com!
 
 
 <h3 align="left">Connect with me:</h3>
