@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshay+Sangale;A+Passionate+Software+Developer!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshay+Sangale;A+Passionate+Software+Developer!" alt="Typing Animation">
 </h1>
-
-<img align="right" alt="coder" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 ## 💫 About Me:
 - 🎓 Hi, I am a **Software Developer**.  
@@ -16,7 +14,7 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/aakshay-sangale" target="blank">
+  <a href="https://linkedin.com/in/aakshay-sangale" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Akshay Sangale" height="30" width="40" />
   </a>
 </p>
