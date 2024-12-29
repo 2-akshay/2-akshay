@@ -1,9 +1,12 @@
-<h1 align="center" style="color: white;">
+<h1 align="center">
   Hi 👋, I'm Akshay Sangale  
   <br />  
   A Passionate Software Developer!
 </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750013-f5f6e1e2-0f7a-4c63-baa5-5cdb8dbef0c1.gif" alt="Coding Animation" width="100%"/>
+</div>
 
 ## 💫 About Me:
 - 🎓 Hi, I am a **Software Developer**.  
