@@ -1,5 +1,7 @@
-<h1 align="center">
-  <img I'm+Akshay+Sangale;A+Passionate+Software+Developer!" alt="Typing Animation">
+<h1 align="center" style="color: white;">
+  Hi 👋, I'm Akshay Sangale  
+  <br />  
+  A Passionate Software Developer!
 </h1>
 
 
